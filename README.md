@@ -1,2 +1,2 @@
-# opencart-vqmod-display-model-in-product-lists
+# Opencart vQmod Display Model in Product Lists
 Display Model in Product Lists
